@@ -56,8 +56,8 @@ The first thing I want to do is interview all of my teammates about why
 they chose to come to UC, their experiences while being here, and create a profile 
 of each player and why they chose to play basketball here. 
 I'll add the team's roster: [https://ucgoldeneagles.com/sports/womens-basketball/roster], 
-**something like this** , share the schedule:
-[https://ucgoldeneagles.com/sports/womens-basketball/schedule], **and something like this** ,
+**something like this**, share the schedule:
+[https://ucgoldeneagles.com/sports/womens-basketball/schedule], **and something like this**,
 and discuss about interesting things to do in Charleston as I gather information 
 on each player. I think this would be a pretty interesting tool for my coaches to give to 
 recruits since they'd be able to learn why players choose this school over 
@@ -66,7 +66,7 @@ others and what they can do while being here at UC.
 ## Metrics
 1. Do the new recruits know more about the team?
 2. Do they know what it is like playing a sport in college
-      **I can test these by simply asking them when they
+   -**I can test these by simply asking them when they
    get here if they know more things about each person
    and ask if the app really helped their knowledge about
    playing a sport in college.**
