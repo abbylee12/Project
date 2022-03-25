@@ -9,8 +9,7 @@ of Charleston to play basketball.
 Here are three different people on our team:
 1.	Our team manager is Lauren Roush. She decided not to play basketball in college but
       still wanted to be engaged with the sport in some manner, so she asked our 
-      coaches if she could be our manager, and they said yes. Here is what she thinks 
-      about UC:
+      coaches if she could be our manager, and they said yes. Here is what she thinks about UC:
       >“I chose the University of Charleston because it was close to home and it had a
       small town environment. With a smaller environment it allows you to be more
       involved and build relationships with your teachers, peers, and community.
