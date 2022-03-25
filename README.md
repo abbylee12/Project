@@ -36,7 +36,7 @@ Here are three different people on our team:
       people who are willing to talk and love you."
 
 
-## Observation
+## Problem
 I noticed that a lot of new people on the team did not know much
 about what they were getting themselves into. They did not know anything 
 about their teammates, what there is to do around Charleston, WV, and so 
