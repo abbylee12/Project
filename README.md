@@ -66,7 +66,7 @@ others and what they can do while being here at UC.
 ## Metrics
 1. Do the new recruits know more about the team?
 2. Do they know what it is like playing a sport in college
-   -**I can test these by simply asking them when they
+   - **I can test these by simply asking them when they
    get here if they know more things about each person
    and ask if the app really helped their knowledge about
    playing a sport in college.**
