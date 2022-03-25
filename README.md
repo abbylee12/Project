@@ -25,7 +25,7 @@ Here are three different people on our team:
       and that's exactly what you get here. Then I opted to play 
       basketball here since I was leaving my family and was hundreds of 
       miles away, and being a part of a team allowed me to have a second family."
-3.  I asked another on of my teammates, Sierra Davis, her thoughts about UC. She says:
+3.  I asked another one of my teammates, Sierra Davis, her thoughts about UC. She said:
       >"I like UC because the people are different. Being from Utah and the west coast,
       there wasn’t a lot I was very excited about being here in West Virginia.
       It’s like right in the middle being on the east coast but like it’s still
